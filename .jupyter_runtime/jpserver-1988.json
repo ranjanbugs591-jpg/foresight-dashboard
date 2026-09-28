@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 1988,
+  "port": 8889,
+  "root_dir": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Foresight",
+  "secure": false,
+  "sock": "",
+  "token": "e45e82dd379e7b5a4025a57613754952e07ff7e652ccf583",
+  "url": "http://localhost:8889/",
+  "version": "2.21.1"
+}
