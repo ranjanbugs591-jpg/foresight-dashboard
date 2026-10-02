@@ -1,0 +1,33 @@
+{
+  "method": "Random Forest",
+  "model_wape": 0.10922479885148487,
+  "baseline_wape": 0.1164897271873881,
+  "forecast_origin": "2025-12-29",
+  "horizon_weeks": 8,
+  "sku_count": 50,
+  "inventory_max_age_days": 28,
+  "action_counts": {
+    "Healthy": 40,
+    "Reorder Now": 6,
+    "Markdown / Clear": 4
+  },
+  "potential_lost_revenue": 2911678.17660055,
+  "excess_capital_tied_up": 2954184.6407861137,
+  "folds": [
+    {
+      "fold": 1,
+      "model_wape": 0.11809979449278497,
+      "baseline_wape": 0.11689866369710468
+    },
+    {
+      "fold": 2,
+      "model_wape": 0.10743795508905968,
+      "baseline_wape": 0.11370342205323195
+    },
+    {
+      "fold": 3,
+      "model_wape": 0.10169505149377782,
+      "baseline_wape": 0.1187167014130183
+    }
+  ]
+}
